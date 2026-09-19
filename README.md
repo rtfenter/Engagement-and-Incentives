@@ -190,9 +190,9 @@ That distinction matters when deciding whether the incentive actually changed be
 
 ## Try the Campaign
 
-*[Interactive demo will be linked here.]*
+→ [Launch the interactive case study](https://rtfenter.github.io/B2C-Loyalty-Product-Study/#engagement)
 
-The demo will show the same intervention from two perspectives.
+The demo shows the same intervention from two perspectives.
 
 ### Customer View
 
@@ -200,7 +200,7 @@ What the targeted member actually experiences:
 
 **Earn 2× points on your first qualifying purchase.**
 
-The experience should make the action and benefit clear without exposing the targeting and experimentation machinery underneath it.
+The experience makes the action and benefit clear without exposing the targeting and experimentation machinery underneath it.
 
 ### Product View
 
@@ -208,13 +208,13 @@ What defines the intervention:
 
 **Behavioral objective → Audience → Eligibility → Incentive → Success event → Experiment → Result**
 
-The demo will also allow the behavioral objective to change between:
+The demo also allows the behavioral objective to change between:
 
 - Activate a new member
 - Drive a second purchase
 - Re-engage a lapsed member
 
-Changing the objective should change the audience, eligibility, success event, and measurement strategy rather than simply swapping the offer copy.
+Changing the objective changes the audience, eligibility, success event, and measurement strategy rather than simply swapping the offer copy.
 
 The point of the interaction isn't to operate a campaign-management tool.
 
@@ -234,7 +234,7 @@ The difference in activation between the treatment and control groups during the
 
 - **Activation rate** — what percentage of eligible members completed the first qualifying action?
 - **Time to first qualifying purchase** — how quickly are members reaching activation after enrollment or exposure?
-- **Incentive redemption rate** — how many targeted members actually used the incentive?
+- **Incentive use rate** — how many targeted members completed a qualifying purchase while eligible for the incentive?
 - **Progression to subsequent engagement** — do members who activate continue into meaningful repeat behavior?
 
 ### Guardrails

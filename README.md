@@ -232,20 +232,20 @@ The difference in activation between the treatment and control groups during the
 
 ### Supporting measures
 
-- Activation rate
-- Time to first qualifying purchase
-- Incentive redemption rate
-- Progression from activation to subsequent engagement
+- **Activation rate** — what percentage of eligible members completed the first qualifying action?
+- **Time to first qualifying purchase** — how quickly are members reaching activation after enrollment or exposure?
+- **Incentive redemption rate** — how many targeted members actually used the incentive?
+- **Progression to subsequent engagement** — do members who activate continue into meaningful repeat behavior?
 
 ### Guardrails
 
-- Incentive cost
-- Margin impact
-- Cannibalization of behavior that would have happened anyway
-- Promotion opt-outs
-- Over-targeting or repeated exposure
+- **Incentive cost** — how much additional reward value was required to generate the incremental behavior?
+- **Incremental margin / contribution** — did the additional behavior generate enough economic value to justify the incentive cost?
+- **Cannibalization** — how much incentive value went toward behavior that likely would have happened without the promotion?
+- **Promotion opt-outs** — is targeting or promotional frequency causing members to opt out?
+- **Over-targeting or repeated exposure** — are members becoming dependent on incentives before acting?
 
-A campaign that increases activation but does so at unsustainable cost isn't automatically successful.
+A campaign that increases activation isn't automatically successful. The incremental behavior has to justify the cost of creating it.
 
 ---
 

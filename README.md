@@ -1,6 +1,6 @@
 # Engagement & Incentives
 
-### Enrollment ≠ Activation
+## Enrollment ≠ activation
 
 Enrollment tells you someone has access to a product or program.
 
@@ -12,7 +12,7 @@ That creates a different product question:
 
 ---
 
-## The Scenario
+## The scenario
 
 Consider a fictional loyalty program with **100,000 enrolled members**.
 
@@ -30,7 +30,7 @@ It's to increase the number who reach that first meaningful product outcome.
 
 ---
 
-## Start With the Behavior
+## Start with the behavior
 
 A tempting starting point is:
 
@@ -56,7 +56,7 @@ The incentive is one product choice inside the strategy. It isn't the strategy i
 
 ---
 
-## The Product Decision
+## The product decision
 
 **Start with the behavior, then design the incentive.**
 
@@ -78,7 +78,7 @@ This keeps audience definition, eligibility, incentive design, and measurement t
 
 ---
 
-## Enrollment, Activation & Engagement
+## Enrollment, activation & engagement
 
 These states describe different relationships with the product.
 
@@ -106,7 +106,7 @@ It can also lead to incentives being sent without a clear understanding of which
 
 ---
 
-## Targeting the Intervention
+## Targeting the intervention
 
 For this activation campaign, the target isn't simply "members who haven't purchased."
 
@@ -132,7 +132,7 @@ Contact and promotion eligibility prevent the campaign from targeting people who
 
 ---
 
-## Offer Performance ≠ Behavior Change
+## Offer performance ≠ behavior change
 
 An offer can perform well without changing much behavior.
 
@@ -155,7 +155,7 @@ Some of them would have activated anyway.
 
 ---
 
-## Measuring Incrementality
+## Measuring incrementality
 
 The campaign should be evaluated against what would likely have happened without the intervention.
 
@@ -188,13 +188,13 @@ That distinction matters when deciding whether the incentive actually changed be
 
 ---
 
-## Try the Campaign
+## Try the campaign
 
 → [Launch the interactive case study](https://rtfenter.github.io/B2C-Loyalty-Product-Study/#engagement)
 
 The demo shows the same intervention from two perspectives.
 
-### Customer View
+### Customer view
 
 What the targeted member actually experiences:
 
@@ -202,7 +202,7 @@ What the targeted member actually experiences:
 
 The experience makes the action and benefit clear without exposing the targeting and experimentation machinery underneath it.
 
-### Product View
+### Product view
 
 What defines the intervention:
 
@@ -249,7 +249,7 @@ A campaign that increases activation isn't automatically successful. The increme
 
 ---
 
-## What I'd Validate
+## What I'd validate
 
 The campaign design starts with a hypothesis: increasing the immediate value of the first qualifying action will move more enrolled members into activation.
 
